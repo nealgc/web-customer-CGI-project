@@ -16,3 +16,7 @@ git remote add origin git@github.com:nealgc/web-customer-CGI-project.git
 check the remote auto linked ok from local to github
 
 git remote -v
+
+
+need to add this for jenkons build
+git config --global core.longpaths true
